@@ -1,8 +1,8 @@
 package main
 
 import (
-	"booking/pkg/handlers"
 	"fmt"
+	"github.com/rach4you/booking/pkg/handlers"
 	"net/http"
 )
 

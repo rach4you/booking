@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"booking/pkg/render"
+	"github.com/rach4you/booking/pkg/render"
 	"net/http"
 )
 
