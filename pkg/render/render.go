@@ -30,3 +30,4 @@ func RenderTemplate(w http.ResponseWriter, tmpl string) {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
 }
+*/
